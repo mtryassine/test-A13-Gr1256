@@ -1,2 +1,11 @@
-# test-A13-Gr1256
-projet de test
+# Initiation a github
+## Creer un repository
+- nom du projet
+- liscence
+- private / public
+- gitignore
+- commit de base
+
+## Faire un commit :
+- des modifications
+- utilisateur / emrunte
