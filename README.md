@@ -9,4 +9,6 @@
 ## Faire un commit :
 - des modifications
 - utilisateur / emrunte
+## configuration:
+- install Git dans intelliji
   
