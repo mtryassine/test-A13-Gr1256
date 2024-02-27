@@ -1,4 +1,5 @@
 public static void main()
 {
-   sustem.out.println("hello word")
+   system.out.println("hello word");
+    system.out.println("hello yassine");
 }
